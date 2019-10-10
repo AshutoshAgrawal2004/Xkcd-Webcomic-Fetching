@@ -1,7 +1,13 @@
-body {}
+body {
+    
+}
 
-.comic-container {
-  text-align: center;
-  border: 3px dashed grey;
-  margin: 10px 0;
+.comic-container{
+    text-align: center;
+    border: 3px dashed grey;
+    margin: 10px 0;
+}
+
+a{
+    color:black;
 }
